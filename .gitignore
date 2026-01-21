@@ -1,0 +1,24 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore node_modules
+node_modules/
+
+# Ignore system files
+.DS_Store
+*.iml
+*.log
+
+# Ignore documents, PDFs, images, and old projects
+*.pdf
+*.ppt*
+*.csv
+*.rtf
+*.webp
+*.sql
+
+# Optional: ignore other IDE/project files
+.vscode/
+.idea/
